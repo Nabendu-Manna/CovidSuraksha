@@ -1,0 +1,2 @@
+# CovidSuraksha
+ Covid Suraksha Django
